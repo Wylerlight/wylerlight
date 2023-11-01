@@ -63,12 +63,10 @@ Thanks for visiting my GitHub profile, and I look forward to connecting with you
 
 ### **📫 Get in Touch**
 <div align="center">
-  <a href="https://www.linkedin.com/in/tylerjtellez/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="70" />
-  </a>
-  <a href="https://www.instagram.com/tylerjtellez/?hl=en">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/2048px-Instagram_logo_2022.svg.png" width="70" />
-  </a>
+  <a href="https://www.linkedin.com/in/tylerjtellez/"><img src="https://www.svgrepo.com/show/448234/linkedin.svg" width="70" /></a>
+  <a href="https://www.instagram.com/tylerjtellez/?hl=en"><img src="https://www.svgrepo.com/show/452229/instagram-1.svg" width="70" /></a>
+  <a href="mailto:softwaretjt@gmail.com"><img src="https://www.svgrepo.com/show/381000/new-logo-gmail.svg" width="70"/></a>
 </div>
+
 
 </div>
