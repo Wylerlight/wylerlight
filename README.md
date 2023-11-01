@@ -18,10 +18,7 @@
 
 > As someone who has always been fascinated by problem-solving and building things from scratch, I've embarked on an exciting journey from the world of mortgage brokering to the realm of full stack engineering.
 
-### **🏦 My Background :**
-<details>
-<summary>click to learn more about me</summary>
-
+**🏦 My Background**
 
 >I spent several years in the mortgage industry, helping individuals and families achieve their dreams of homeownership. During this time, I developed a keen sense of attention to detail, strong analytical skills, and a dedication to providing top-notch service to my clients.
 
@@ -37,7 +34,6 @@
 
 >I'm always excited to connect with fellow developers, share experiences, and learn from one another. Whether you're interested in coding, finance, or anything in between, let's connect and grow together in the world of technology.
 
-</details>
 
 ## 🛠️ Languages & Tools :
 <div align="center">
