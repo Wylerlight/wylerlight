@@ -14,21 +14,17 @@
   </div>
 </div>
 
-## **:house: Former Mortgage Broker :arrow_right: 🚀 Full Stack Engineer**
+## **🌎 Esri 🚀 Full Stack Engineer**
 
-> As someone who has always been fascinated by problem-solving and building things from scratch, I've embarked on an exciting journey from the world of mortgage brokering to the realm of full stack engineering.
-
-**🏦 My Background**
-
->I spent several years in the mortgage industry, helping individuals and families achieve their dreams of homeownership. During this time, I developed a keen sense of attention to detail, strong analytical skills, and a dedication to providing top-notch service to my clients.
+> As someone who has always been fascinated by problem-solving and building things from scratch, I've embarked on an exciting journey of full stack engineering.
 
 **💻 My Passion**
 
->However, my heart has always been in technology and software development. I am now dedicated to honing my skills as a full stack engineer, where I get to leverage my analytical abilities to solve complex problems and bring innovative ideas to life. The transition from mortgage brokering to coding was driven by my desire to create, innovate, and build solutions that make a difference.
+>Dedicated to honing my skills as a full stack engineer, leverage my analytical abilities to solve complex problems and bring innovative ideas to life. Passionate about creating, innovating, and building solutions that make a difference.
 
 **🌐 What You'll Find Here**
 
->In this GitHub repository, you'll discover a collection of my projects and contributions that reflect my journey as a full stack engineer. I'm passionate about web development, databases, and creating applications that improve the lives of users. Feel free to explore my code, provide feedback, or collaborate on projects.
+>In this GitHub repository, you'll discover a collection of my projects and contributions that reflect my journey as a full stack engineer. Feel free to explore my code, provide feedback, or collaborate on projects.
 
 **🚀 Let's Connect**
 
